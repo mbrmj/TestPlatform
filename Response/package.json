@@ -1,0 +1,14 @@
+{
+  "name": "responseHostInfo",
+  "version": "0.0.9",
+  "description": "add host info to reponse response",
+  "main": "InfoHost.js",
+  "dependencies": {
+    "os":"*","util":"*","express": "*"
+    },
+    "scripts": {
+      	"start": "nodejs index.js"
+      },
+  "author": "Anas",
+  "license": "ISC"
+}
